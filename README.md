@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Shchoholiev
-- 👀 I’m interested in Web development and GameDev
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me - LinkedIn account - www.linkedin.com/in/serhii-shchoholiev
+# 👋 Hi, I’m Serhii (Sergey)
 
-<!---
-Shchoholiev/Shchoholiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🔭 I’m currently** leading a cross functional team of 9 engineers building serverless & LLM-powered automation pipelines at Claritev  
+**🌱 I’m learning** advanced prompt engineering & GPU powered Kubernetes deployments  
+**👯 I’m open to** collaborations on open-source AI projects (e.g Codex CLI)
+
+---
+
+### 📫 How to reach me  
+- Email: serhii.shchoholiev@gmail.com  
+- LinkedIn: [serhii-shchoholiev](https://www.linkedin.com/in/serhii-shchoholiev)  
